@@ -1,0 +1,17 @@
+body{
+    margin: 0%;
+    width: 100vw;
+    height: 100vh;
+}
+.container{
+    text-align: center;
+    padding-top: 10%;
+}
+.dropdown-menu{
+    width:fit-content ;
+    height: fit-content;
+}
+.dropdown-item{
+    padding: 8px 30px; 
+    border-radius: 5px;
+}
